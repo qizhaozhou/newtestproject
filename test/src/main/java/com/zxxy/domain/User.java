@@ -6,7 +6,7 @@ package com.zxxy.domain;
  */
 public class User {
 
-    private String name="zh";
+    private String name="zhou";
 
     private Integer age;
 
